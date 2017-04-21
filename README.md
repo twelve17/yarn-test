@@ -9,7 +9,7 @@ This issue is being leveraged here to illustrate that the dependency is changing
 
 
 - node v7.9.0
-- yarn 0.23.2
+- yarn 0.23.2 (via homebrew)
 - OS X 10.12.3 Sierra
 - `yarn-test` as the main project
 - `local-dep`: a local NPM dependency
