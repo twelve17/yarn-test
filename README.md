@@ -30,7 +30,7 @@ Test now fails with this error:
 
 ```
 request with local nock
-  /Volumes/Moto1/work/yarn-test/node_modules/local-dep/node_modules/nock/lib/request_overrider.js:260
+  /path/to/yarn-test/node_modules/local-dep/node_modules/nock/lib/request_overrider.js:260
 
   Error: Nock: No match for request {
     "method": "POST",
