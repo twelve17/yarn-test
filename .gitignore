@@ -1,0 +1,4 @@
+node_modules
+local-dep/node_modules
+*.sw*
+yarn.lock
